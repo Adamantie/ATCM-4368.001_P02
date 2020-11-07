@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95dd74069abe32949acc4765b7e4b3e8, type: 3}
+  m_Name: Ability_Attack
+  m_EditorClassIdentifier: 
+  _name: Attack
+  _cost: 1
+  _graphic: {fileID: 21300000, guid: 9864ba67c3de96d45a37e33daf531f08, type: 3}
+  _playEffect: {fileID: 11400000, guid: f6e3226ab54865549bb5595867de39f2, type: 2}

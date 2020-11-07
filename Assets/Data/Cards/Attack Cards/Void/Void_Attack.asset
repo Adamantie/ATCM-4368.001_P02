@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b8bf022d9093ac45bb4c6a198d32a52, type: 3}
+  m_Name: Void_Attack
+  m_EditorClassIdentifier: 
+  _name: Void
+  _damage: 50
+  _manaCost: 80
+  _graphic: {fileID: 21300000, guid: c6f591e7874a1eb429d72b37cb17de6b, type: 3}
+  _playEffect: {fileID: 11400000, guid: eb3bcc8f2717a6c438902604c53c4d78, type: 2}
